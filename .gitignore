@@ -1,0 +1,13 @@
+# Ignore the data folder
+datasets/
+
+# Ignore large or temporary files
+*.csv
+*.xlsx
+*.zip
+*.tar.gz
+
+# Ignore Python cache (always good to have)
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
